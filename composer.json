@@ -1,0 +1,16 @@
+{
+    "name": "bruno/projeto-pdf",
+    "autoload": {
+        "psr-4": {
+            "Bruno\\ProjetoPdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bruno"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.0"
+    }
+}
